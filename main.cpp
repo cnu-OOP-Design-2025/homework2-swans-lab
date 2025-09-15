@@ -40,7 +40,7 @@ void printStudentList(){
 }
 
 void doNamespaceTest(){
-    cout << "---------------------------" << endl;
+//    cout << "---------------------------" << endl;
     cout << "Namespace Test" << endl;
 
     // 정수형 계산기 테스트
